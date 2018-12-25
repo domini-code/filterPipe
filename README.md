@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Do You want see video tutorial on Youtube
 
-Do You want see video tutorial on Youtube
+https://youtu.be/NiI3LYlEpQs
 
 
 ## Build
